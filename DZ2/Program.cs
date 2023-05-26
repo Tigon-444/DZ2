@@ -14,7 +14,6 @@ namespace DZ2
 
             List<int> allStatistic = new List<int>();
 
-            Stopwatch sw = new Stopwatch();
 
             CreateList(ref list1, ref allStatistic);
 
@@ -194,12 +193,6 @@ namespace DZ2
 
                 }
             }
-
-
-            // время создания листа = 
-            // время находжения элемента = 
-            // время поиска чисел делящихся на 777 = 
-
 
         }
     }
